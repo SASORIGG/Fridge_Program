@@ -67,7 +67,6 @@
 ..\obj\main.o: ..\TEXT\fontupd.h
 ..\obj\main.o: D:\KEIL\ARM\ARMCC\Bin\..\include\math.h
 ..\obj\main.o: ..\HARDWARE\BEEP\beep.h
-..\obj\main.o: ..\HARDWARE\EXTI\exti.h
 ..\obj\main.o: ..\NET\onenet\inc\onenet.h
 ..\obj\main.o: ..\NET\device\inc\esp8266.h
 ..\obj\main.o: ..\HARDWARE\MPU6050\mpu6050.h
